@@ -376,7 +376,7 @@
     /*-------------------------------------
      jQuery MeanMenu activation code
      --------------------------------------*/
-    $('nav#dropdown').meanmenu({ siteLogo: "<div class='mobile-menu-back'><a href='index.html' class='logo-mobile-menu'><img src='img/mobile-logo.png'/></a></div>" });
+    $('nav#dropdown').meanmenu({ siteLogo: "<div class='mobile-menu-back'><a href='index_old.html' class='logo-mobile-menu'><img src='img/mobile-logo.png'/></a></div>" });
 
     /*-------------------------------------
      Jquery Scollup
